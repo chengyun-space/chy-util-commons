@@ -52,7 +52,13 @@
             <comments>A business-friendly OSS license</comments>
         </license>
     </licenses>
-
+    <dependencies >
+        <dependency>
+            <groupId>com.github.widebase</groupId>
+            <artifactId>widebase-rq-listener_2.9.1</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+    </dependencies>
     <developers>
         <developer>
             <id>zuihou</id>
